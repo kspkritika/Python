@@ -1,5 +1,6 @@
 #importing the libraries
 #turtle standard graphics library for python
+print("Main hoon ghatotkack main duniya mein sabse nirala")
 from turtle import *
 
 #function to create koch snowflake or koch curve
